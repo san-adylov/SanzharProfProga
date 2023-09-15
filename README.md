@@ -5,9 +5,6 @@
 I'm passionate about Java and dedicated to creating exceptional code. I aim to set high standards, stay up-to-date with tech, and craft remarkable solutions. Let's make the world better through code! 🌐💡</div>  
   
 
-- 🔭 I'm currently focused on [Github Profilinator](https://github.com/rishavanand/github-profilinator) - a project that allows you to showcase your GitHub profile dynamically. You can check out my GitHub activity for  2023 [here](https://github.com/SanzharProfProga?tab=overview&from=2023-08-01&to=2023-08-31).  
-  
-
 - 🌱At the moment, I'm delving deep into Java Core, algorithms, and data structures, while simultaneously getting familiar with Python, Django, Docker, and Docker Kubernetes. 🚀📚  
   
 
